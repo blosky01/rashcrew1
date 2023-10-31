@@ -9523,6 +9523,7 @@ div[class*="col"]:nth-of-type(4n + 4) .choose-item::after {
   background: white;
   color: #2e2e2e !important;
 }
+
 .blog-widget-thumb .blog-widget-video .waves {
   background: white;
 }
@@ -9547,3 +9548,5 @@ div[class*="col"]:nth-of-type(4n + 4) .choose-item::after {
 .pablo-copyRight:hover {
   color: red;
 }
+
+
