@@ -9549,4 +9549,21 @@ div[class*="col"]:nth-of-type(4n + 4) .choose-item::after {
   color: red;
 }
 
+.logo-banner-main{
+  width: 636px; 
+  height:726px;
+}
+
+/* Estilos para pantallas más pequeñas (móviles) */
+@media (max-width: 768px) {
+  .logo-banner-main{
+    
+   height: 350px !important;
+  }
+}
+
+.hover-text:hover{
+  color: white !important;
+}
+
 
